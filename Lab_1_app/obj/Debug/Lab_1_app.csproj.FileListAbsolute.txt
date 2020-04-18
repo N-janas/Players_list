@@ -1,0 +1,41 @@
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\bin\Debug\Lab_1_app.exe.config
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\bin\Debug\Lab_1_app.exe
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\bin\Debug\Lab_1_app.pdb
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app.csprojAssemblyReference.cache
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\MainWindow.g.cs
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\App.g.cs
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app_MarkupCompile.cache
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app_MarkupCompile.lref
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\MainWindow.baml
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app.g.resources
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app.Properties.Resources.resources
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app.csproj.GenerateResource.cache
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app.exe
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\Lab_1_app.pdb
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\TextBoxWithErrorProvider.g.cs
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\VSC Projects\C#\Ob i Graf\Lab_1_app\obj\Debug\TextBoxWithErrorProvider.baml
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\Lab_1_app.exe.config
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\Lab_1_app.exe
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\Lab_1_app.pdb
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app.csprojAssemblyReference.cache
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\MainWindow.g.cs
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\TextBoxWithErrorProvider.g.cs
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\App.g.cs
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app_MarkupCompile.cache
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app_MarkupCompile.lref
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\MainWindow.baml
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\TextBoxWithErrorProvider.baml
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app.g.resources
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app.Properties.Resources.resources
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app.csproj.GenerateResource.cache
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app.exe
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app.pdb
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\System.Windows.Interactivity.dll
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\System.Windows.Interactivity.xml
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\obj\Debug\Lab_1_app.csproj.CopyComplete
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\Newtonsoft.Json.dll
+C:\VSC Projects\C#\POiG\Pilkarze_MVVM\Lab_1_app\bin\Debug\Newtonsoft.Json.xml

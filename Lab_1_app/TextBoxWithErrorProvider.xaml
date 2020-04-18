@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="Lab_1_app.TextBoxWithErrorProvider"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab_1_app"
+             xmlns:vm="clr-namespace:Lab_1_app.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <UserControl.Resources>
+        <vm:BoolToThicknessConverter x:Key="converter"/>
+    </UserControl.Resources>
+    
+    <Grid>
+        <Border x:Name="border" x:FieldModifier="private" BorderBrush="Red" 
+                BorderThickness="{
+                                Binding Path=IsToolTipShown,
+                                Converter={StaticResource converter},
+                                Mode=TwoWay,
+                                UpdateSourceTrigger=PropertyChanged,
+                                RelativeSource={
+                                                    RelativeSource Mode=FindAncestor,
+                                                    AncestorType={x:Type UserControl}
+                                                }
+                                }">
+            
+            <TextBox x:Name="textBox" x:FieldModifier="private" 
+                     Text="{
+                            Binding Path=Text,
+                            Mode=TwoWay,
+                            UpdateSourceTrigger=PropertyChanged,
+                            RelativeSource={
+                                            RelativeSource Mode=FindAncestor,
+                                            AncestorType={x:Type UserControl}
+                                            } 
+                            }"
+                     
+                     ToolTipService.IsEnabled="{
+                            Binding Path=IsToolTipShown,
+                            Mode=TwoWay,
+                            UpdateSourceTrigger=PropertyChanged,
+                            RelativeSource={
+                                            RelativeSource Mode=FindAncestor,
+                                            AncestorType={x:Type UserControl}
+                                            } 
+                            }">
+                
+                <TextBox.ToolTip>
+                    <ToolTip>
+                        <TextBlock>
+                            To pole nie może zostać puste
+                        </TextBlock>
+                    </ToolTip>
+                </TextBox.ToolTip>
+            </TextBox>
+        </Border>
+    </Grid>
+</UserControl>
